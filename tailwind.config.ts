@@ -12,6 +12,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        OpenRundeBold: "OpenRundeBold",
+        OpenRundeMedium: "OpenRundeMedium",
+        OpenRundeRegular: "OpenRundeRegular",
+        OpenRundeSemibold: "OpenRundeSemibold",
+      },
     },
   },
   plugins: [],

@@ -1,0 +1,14 @@
+<svg width="103" height="102" viewBox="0 0 103 102" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="51.5" cy="51" rx="51.5" ry="51" fill="url(#paint0_radial_135_29)"/>
+<path d="M48.5709 31.2332C49.2649 28.0977 53.7351 28.0977 54.4291 31.2332L57.003 42.8616C57.258 44.0138 58.1649 44.9095 59.3202 45.1502L70.9022 47.5631C74.0864 48.2264 74.0865 52.7736 70.9023 53.4369L59.3202 55.8498C58.1649 56.0905 57.258 56.9862 57.003 58.1384L54.4291 69.7668C53.7351 72.9023 49.2649 72.9023 48.5709 69.7668L45.997 58.1384C45.742 56.9862 44.8351 56.0905 43.6798 55.8498L32.0978 53.4369C28.9136 52.7736 28.9135 48.2264 32.0977 47.5631L43.6798 45.1502C44.8351 44.9095 45.742 44.0138 45.997 42.8616L48.5709 31.2332Z" fill="url(#paint1_linear_135_29)"/>
+<defs>
+<radialGradient id="paint0_radial_135_29" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(25.5 17.5) rotate(53.6955) scale(91.2044 92.0986)">
+<stop stop-color="#525252"/>
+<stop offset="0.595" stop-color="#221F1F"/>
+</radialGradient>
+<linearGradient id="paint1_linear_135_29" x1="51.5" y1="18" x2="51" y2="64" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A49D9D"/>
+<stop offset="1" stop-color="#3E3B3B"/>
+</linearGradient>
+</defs>
+</svg>

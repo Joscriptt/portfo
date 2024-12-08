@@ -19,3 +19,20 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@font-face {
+  font-family: OpenRundeBold;
+  src: url("../app/fonts/OpenRundeBold.otf");
+}
+@font-face {
+  font-family: OpenRundeMedium;
+  src: url("../app/fonts/OpenRundeMedium.otf");
+}
+@font-face {
+  font-family: OpenRundeRegular;
+  src: url("../app/fonts/OpenRundeRegular.otf");
+}
+@font-face {
+  font-family: OpenRundeSemibold;
+  src: url("../app/fonts/OpenRundeSemibold.otf");
+}
